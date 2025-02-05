@@ -27,7 +27,7 @@
 
 - 📝 I have great interest in computing in general
 
-- 📫 Feel free to reach me out **joacoo973@gmail.com**
+- 📫 Feel free to reach me out **joaquin.ortega760@gmail.com**
 
 <!--Intro end-->
 
